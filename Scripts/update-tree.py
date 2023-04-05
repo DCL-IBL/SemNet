@@ -18,10 +18,7 @@ rels = {
     "holo_part": "holo_part",
     "holo_portion": "holo_portion",
     "instance_hyperonym": "instance_hyperonym",
-    "manifestation of": "has_characteristic",
     "origin": "has_origin",
-    "possesses": "has_function",
-    "property": "has_characteristic",
     "purpose": "has_purpose",
     "used for": "has_uses",
     "hypernym": "hypernym"
